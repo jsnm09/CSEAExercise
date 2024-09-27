@@ -1,4 +1,2 @@
-print("Saca Dart")
-print("New change")
-
-#ima kms
+print("Hi my name is")
+print("Hello World")
